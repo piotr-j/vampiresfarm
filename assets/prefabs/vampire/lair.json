@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "version": 1
+  },
+  "componentIdentifiers": {
+    "io.piotrjastrzebski.vampirefarm.game.components.vampire.Lair": "Lair",
+    "io.piotrjastrzebski.vampirefarm.game.components.Tapable": "Tapable",
+    "io.piotrjastrzebski.vampirefarm.game.components.Building": "Building",
+    "io.piotrjastrzebski.vampirefarm.game.components.Transform": "Transform"
+  },
+  "entities": {
+    "2": {
+      "archetype": 4,
+      "components": {
+        "Tapable": {
+          "event": "TAPPED_VAMPIRE_LAIR"
+        },
+        "Lair": {
+
+        },
+        "Building": {
+          "owner": 0,
+          "demolishable": true
+        }
+      }
+    }
+  },
+  "archetypes": {
+    "4": [
+      "Transform",
+      "Tapable",
+      "Building",
+      "Lair"
+    ]
+  }
+}

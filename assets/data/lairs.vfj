@@ -1,0 +1,122 @@
+[
+{
+	id: 0
+	asset: vampire/abandoned-barn-infested
+	minionsCap: 4
+	minionsPerTap: 1
+	minionPayloadCap: .25
+	minionGatherSpeed: .25
+	minionMoveSpeed: 1
+	minionSearchRadius: 5
+}
+{
+	id: 1
+	asset: vampire/lair-t0
+	minionsCap: 10
+	minionsPerTap: 1
+	minionPayloadCap: .25
+	minionGatherSpeed: .5
+	minionMoveSpeed: 1
+	minionSearchRadius: 7
+}
+{
+	id: 2
+	asset: vampire/lair-t1
+	minionsCap: 10
+	minionsPerTap: 1
+	minionPayloadCap: .25
+	minionGatherSpeed: .5
+	minionMoveSpeed: 1
+	minionSearchRadius: 7
+}
+{
+	id: 3
+	asset: vampire/lair-t2
+	minionsCap: 16
+	minionsPerTap: 1
+	minionPayloadCap: .25
+	minionGatherSpeed: 1
+	minionMoveSpeed: 1
+	minionSearchRadius: 7
+}
+{
+	id: 4
+	asset: vampire/lair-t3
+	minionsCap: 20
+	minionsPerTap: 1
+	minionPayloadCap: .25
+	minionGatherSpeed: 1
+	minionMoveSpeed: 1
+	minionSearchRadius: 7
+}
+{
+	id: 5
+	asset: vampire/lair-t4
+	minionsCap: 20
+	minionsPerTap: 1
+	minionPayloadCap: .25
+	minionGatherSpeed: 1.25
+	minionMoveSpeed: 1
+	minionSearchRadius: 7
+}
+{
+	id: 6
+	asset: vampire/lair-t5
+	minionsCap: 20
+	minionsPerTap: 1
+	minionPayloadCap: .25
+	minionGatherSpeed: 1.25
+	minionMoveSpeed: 1
+	minionSearchRadius: 7
+}
+{
+	id: 7
+	asset: vampire/lair-t6
+	minionsCap: 20
+	minionsPerTap: 1
+	minionPayloadCap: .25
+	minionGatherSpeed: 1.25
+	minionMoveSpeed: 1
+	minionSearchRadius: 7
+}
+{
+	id: 8
+	asset: vampire/lair-t7
+	minionsCap: 20
+	minionsPerTap: 1
+	minionPayloadCap: .25
+	minionGatherSpeed: 1.25
+	minionMoveSpeed: 1
+	minionSearchRadius: 7
+}
+{
+	id: 9
+	asset: vampire/lair-t8
+	minionsCap: 20
+	minionsPerTap: 1
+	minionPayloadCap: .25
+	minionGatherSpeed: 1.25
+	minionMoveSpeed: 1
+	minionSearchRadius: 7
+}
+{
+	id: 10
+	asset: vampire/lair-t9
+	minionsCap: 20
+	minionsPerTap: 1
+	minionPayloadCap: .25
+	minionGatherSpeed: 1.25
+	minionMoveSpeed: 1
+	minionSearchRadius: 7
+}
+{
+	id: 11
+	asset: vampire/lair-t10
+	minionsCap: 20
+	minionsPerTap: 1
+	minionPayloadCap: .25
+	minionGatherSpeed: 1.25
+	minionMoveSpeed: 1
+	minionSearchRadius: 7
+}
+]

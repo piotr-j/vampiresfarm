@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "version": 1
+  },
+  "componentIdentifiers": {
+    "io.piotrjastrzebski.vampirefarm.game.components.human.CropField": "CropField",
+    "io.piotrjastrzebski.vampirefarm.game.components.Tapable": "Tapable",
+    "io.piotrjastrzebski.vampirefarm.game.components.RegionLockable": "RegionLockable",
+    "io.piotrjastrzebski.vampirefarm.game.components.Building": "Building",
+    "io.piotrjastrzebski.vampirefarm.game.components.Transform": "Transform"
+  },
+  "entities": {
+    "0": {
+      "archetype": 3,
+      "components": {
+        "Tapable": {
+          "event": "TAPPED_HUMAN_FIELD",
+          "ignoreVampireBlock": true
+        },
+        "CropField": {
+          "humansCapIncreasePercent": 20,
+          "humansPerSecondIncreasePercent": 10,
+          "range": 2.5
+        },
+        "Building": {
+          "owner": 1,
+          "demolishable": true
+        }
+      }
+    }
+  },
+  "archetypes": {
+    "3": [
+      "Transform",
+      "CropField",
+      "Tapable",
+      "RegionLockable",
+      "Building"
+    ]
+  }
+}

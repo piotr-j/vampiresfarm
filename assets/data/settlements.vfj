@@ -1,0 +1,53 @@
+[
+{
+    id: 0
+    humansCap: 10
+    humansPerSecond: .25
+    // cooldown before bps takes effect
+    refillCooldown: 1
+    asset: human/settlement-t0
+},{
+    id: 1
+    humansCap: 20
+    humansPerSecond: 2
+    refillCooldown: 1
+    asset: human/settlement-t1
+},{
+    id: 2
+    humansCap: 40
+    humansPerSecond: 6
+    refillCooldown: 3
+    asset: human/settlement-t2
+},{
+    id: 3
+    humansCap: 80
+    humansPerSecond: 8
+    refillCooldown: 4
+    asset: human/settlement-t3
+},{
+    id: 4
+    humansCap: 160
+    humansPerSecond: 14
+    refillCooldown: 7
+    asset: human/settlement-t4
+},{
+    id: 5
+    humansCap: 320
+    humansPerSecond: 22
+    refillCooldown: 11
+    asset: human/settlement-t5
+},{
+    id: 6
+    humansCap: 640
+    humansPerSecond: 36
+    refillCooldown: 18
+    asset: human/settlement-t6
+},{
+    id: 7
+    humansCap: 1280
+    humansPerSecond: 58
+    refillCooldown: 29
+    asset: human/settlement-t7
+}
+]
+

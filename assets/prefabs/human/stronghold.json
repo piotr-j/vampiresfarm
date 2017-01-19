@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "version": 1
+  },
+  "componentIdentifiers": {
+    "io.piotrjastrzebski.vampirefarm.game.components.human.Stronghold": "Stronghold",
+    "io.piotrjastrzebski.vampirefarm.game.components.RegionLockable": "RegionLockable",
+    "io.piotrjastrzebski.vampirefarm.game.components.Tapable": "Tapable",
+    "io.piotrjastrzebski.vampirefarm.game.components.Building": "Building",
+    "io.piotrjastrzebski.vampirefarm.game.components.Transform": "Transform"
+  },
+  "entities": {
+    "2": {
+      "archetype": 4,
+      "components": {
+        "Tapable": {
+          "event": "TAPPED_HUMAN_STRONGHOLD",
+          "ignoreVampireBlock": true
+        }
+      },
+      "Building": {
+        "owner": 1,
+        "demolishable": false
+      }
+    }
+  },
+  "archetypes": {
+    "4": [
+      "Transform",
+      "Stronghold",
+      "Tapable",
+      "RegionLockable",
+      "Building"
+    ]
+  }
+}

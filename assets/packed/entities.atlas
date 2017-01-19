@@ -1,0 +1,293 @@
+
+entities.png
+size: 2048,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+default
+  rotate: false
+  xy: 1, 175
+  size: 253, 77
+  orig: 256, 128
+  offset: 1, 51
+  index: -1
+human/abandoned-barn
+  rotate: false
+  xy: 697, 114
+  size: 80, 36
+  orig: 100, 100
+  offset: 11, 10
+  index: -1
+human/crop-field
+  rotate: false
+  xy: 1467, 172
+  size: 80, 80
+  orig: 100, 100
+  offset: 10, 10
+  index: -1
+human/peasant
+  rotate: false
+  xy: 222, 20
+  size: 32, 71
+  orig: 32, 71
+  offset: 0, 0
+  index: -1
+human/settlement-t0
+  rotate: false
+  xy: 779, 120
+  size: 80, 30
+  orig: 100, 100
+  offset: 10, 10
+  index: -1
+human/settlement-t1
+  rotate: false
+  xy: 343, 115
+  size: 96, 35
+  orig: 100, 100
+  offset: 0, 10
+  index: -1
+human/settlement-t2
+  rotate: false
+  xy: 441, 109
+  size: 90, 41
+  orig: 100, 100
+  offset: 6, 10
+  index: -1
+human/settlement-t3
+  rotate: false
+  xy: 1, 2
+  size: 91, 69
+  orig: 100, 100
+  offset: 4, 0
+  index: -1
+human/settlement-t4
+  rotate: false
+  xy: 251, 102
+  size: 90, 48
+  orig: 100, 100
+  offset: 6, 10
+  index: -1
+human/settlement-t5
+  rotate: false
+  xy: 1281, 178
+  size: 91, 74
+  orig: 100, 100
+  offset: 4, 10
+  index: -1
+human/settlement-t6
+  rotate: false
+  xy: 1374, 178
+  size: 91, 74
+  orig: 100, 100
+  offset: 4, 0
+  index: -1
+human/settlement-t7
+  rotate: false
+  xy: 727, 152
+  size: 91, 100
+  orig: 100, 110
+  offset: 4, 10
+  index: -1
+human/stronghold-t0
+  rotate: false
+  xy: 344, 63
+  size: 50, 50
+  orig: 100, 100
+  offset: 25, 10
+  index: -1
+human/stronghold-t1
+  rotate: false
+  xy: 256, 40
+  size: 42, 60
+  orig: 100, 100
+  offset: 29, 10
+  index: -1
+human/stronghold-t10
+  rotate: false
+  xy: 103, 73
+  size: 100, 100
+  orig: 100, 110
+  offset: 0, 10
+  index: -1
+human/stronghold-t2
+  rotate: false
+  xy: 1713, 162
+  size: 70, 90
+  orig: 100, 100
+  offset: 5, 10
+  index: -1
+human/stronghold-t3
+  rotate: false
+  xy: 1002, 162
+  size: 91, 90
+  orig: 100, 100
+  offset: 5, 10
+  index: -1
+human/stronghold-t4
+  rotate: false
+  xy: 256, 152
+  size: 93, 100
+  orig: 100, 110
+  offset: 1, 10
+  index: -1
+human/stronghold-t5
+  rotate: false
+  xy: 300, 40
+  size: 42, 60
+  orig: 100, 100
+  offset: 29, 10
+  index: -1
+human/stronghold-t6
+  rotate: false
+  xy: 1785, 162
+  size: 70, 90
+  orig: 100, 100
+  offset: 5, 10
+  index: -1
+human/stronghold-t7
+  rotate: false
+  xy: 1095, 162
+  size: 91, 90
+  orig: 100, 100
+  offset: 5, 10
+  index: -1
+human/stronghold-t8
+  rotate: false
+  xy: 351, 152
+  size: 93, 100
+  orig: 100, 110
+  offset: 1, 10
+  index: -1
+human/stronghold-t9
+  rotate: false
+  xy: 1, 73
+  size: 100, 100
+  orig: 100, 110
+  offset: 0, 10
+  index: -1
+particle
+  rotate: false
+  xy: 861, 119
+  size: 32, 31
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+vampire/abandoned-barn-infested
+  rotate: false
+  xy: 615, 110
+  size: 80, 40
+  orig: 100, 100
+  offset: 11, 10
+  index: -1
+vampire/cistern-t0
+  rotate: false
+  xy: 533, 96
+  size: 80, 54
+  orig: 100, 100
+  offset: 10, 10
+  index: -1
+vampire/lair-t0
+  rotate: false
+  xy: 396, 58
+  size: 40, 55
+  orig: 100, 100
+  offset: 30, 10
+  index: -1
+vampire/lair-t1
+  rotate: false
+  xy: 176, 1
+  size: 44, 70
+  orig: 100, 100
+  offset: 28, 10
+  index: -1
+vampire/lair-t10
+  rotate: false
+  xy: 540, 152
+  size: 92, 100
+  orig: 100, 110
+  offset: 4, 10
+  index: -1
+vampire/lair-t2
+  rotate: false
+  xy: 1925, 168
+  size: 66, 84
+  orig: 100, 100
+  offset: 5, 10
+  index: -1
+vampire/lair-t3
+  rotate: false
+  xy: 1188, 168
+  size: 91, 84
+  orig: 100, 100
+  offset: 5, 10
+  index: -1
+vampire/lair-t4
+  rotate: false
+  xy: 911, 158
+  size: 89, 94
+  orig: 100, 104
+  offset: 5, 10
+  index: -1
+vampire/lair-t5
+  rotate: false
+  xy: 205, 93
+  size: 44, 80
+  orig: 100, 100
+  offset: 28, 10
+  index: -1
+vampire/lair-t6
+  rotate: false
+  xy: 1857, 158
+  size: 66, 94
+  orig: 100, 104
+  offset: 5, 10
+  index: -1
+vampire/lair-t7
+  rotate: false
+  xy: 634, 152
+  size: 91, 100
+  orig: 100, 110
+  offset: 5, 10
+  index: -1
+vampire/lair-t8
+  rotate: false
+  xy: 820, 152
+  size: 89, 100
+  orig: 100, 110
+  offset: 5, 10
+  index: -1
+vampire/lair-t9
+  rotate: false
+  xy: 446, 152
+  size: 92, 100
+  orig: 100, 110
+  offset: 4, 10
+  index: -1
+vampire/pen-t0
+  rotate: false
+  xy: 1549, 164
+  size: 80, 88
+  orig: 100, 100
+  offset: 10, 10
+  index: -1
+vampire/portal
+  rotate: false
+  xy: 1631, 172
+  size: 80, 80
+  orig: 100, 100
+  offset: 10, 10
+  index: -1
+vampire/station-t0
+  rotate: false
+  xy: 94, 11
+  size: 80, 60
+  orig: 100, 100
+  offset: 10, 10
+  index: -1
+vampire/vampire
+  rotate: false
+  xy: 1993, 167
+  size: 32, 85
+  orig: 32, 85
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+[
+{
+	id: 0
+	unlockCost: 2
+	captureDuration: 10
+	asset: human/abandoned-barn
+}
+{
+	id: 1
+	unlockCost: 4
+	defense: 10
+	defensePerSecond: 1
+	capturableDuration: 60
+	captureDuration: 15
+	vampireBlockedDistance: 2.5
+	asset: human/stronghold-t0
+}
+{
+	id: 2
+	unlockCost: 8
+	defense: 15
+	defensePerSecond: 1
+	capturableDuration: 60
+	captureDuration: 20
+	vampireBlockedDistance: 2.5
+	asset: human/stronghold-t1
+}
+{
+	id: 3
+	unlockCost: 1000
+	defense: 10000
+	defensePerSecond: 100
+	capturableDuration: 60
+	captureDuration: 25
+	vampireBlockedDistance: 2.5
+	asset: human/stronghold-t2
+}
+{
+	id: 4
+	unlockCost: 10000
+	defense: 100000
+	defensePerSecond: 1000
+	capturableDuration: 60
+	captureDuration: 30
+	vampireBlockedDistance: 2.5
+	asset: human/stronghold-t3
+}
+{
+	id: 5
+	unlockCost: 10000
+	defense: 1000000
+	defensePerSecond: 10000
+	capturableDuration: 60
+	captureDuration: 45
+	vampireBlockedDistance: 2.5
+	asset: human/stronghold-t4
+}
+{
+	id: 6
+	unlockCost: 10000
+	defense: 1000000
+	defensePerSecond: 10000
+	capturableDuration: 60
+	captureDuration: 60
+	vampireBlockedDistance: 2.5
+	asset: human/stronghold-t5
+}
+{
+	id: 7
+	unlockCost: 10000
+	defense: 1000000
+	defensePerSecond: 10000
+	capturableDuration: 60
+	captureDuration: 60
+	vampireBlockedDistance: 2.5
+	asset: human/stronghold-t6
+}
+{
+	id: 8
+	unlockCost: 10000
+	defense: 1000000
+	defensePerSecond: 10000
+	capturableDuration: 60
+	captureDuration: 60
+	vampireBlockedDistance: 2.5
+	asset: human/stronghold-t7
+}
+{
+	id: 9
+	unlockCost: 10000
+	defense: 1000000
+	defensePerSecond: 10000
+	capturableDuration: 60
+	captureDuration: 60
+	vampireBlockedDistance: 2.5
+	asset: human/stronghold-t8
+}
+{
+	id: 10
+	unlockCost: 10000
+	defense: 1000000
+	defensePerSecond: 10000
+	capturableDuration: 60
+	captureDuration: 60
+	vampireBlockedDistance: 2.5
+	asset: human/stronghold-t9
+}
+{
+	id: 11
+	unlockCost: 10000
+	defense: 1000000
+	defensePerSecond: 10000
+	capturableDuration: 60
+	captureDuration: 60
+	vampireBlockedDistance: 2.5
+	asset: human/stronghold-t10
+}
+]

@@ -1,0 +1,38 @@
+{
+    spawnChancePerMinute: 5
+    spawnCooldownSecondsMin: 10
+    spawnCooldownSecondsMax: 25
+    pigeonTypes: [
+        {
+            name: fast
+            chance: .1
+            speed: 3
+            size: .3
+            healthMin: 1
+            healthMax: 3
+            rewardMin: 1
+            rewardMax: 3
+        }
+        {
+            name: slow
+            chance: .2
+            speed: .5
+            size: .5
+            healthMin: 3
+            healthMax: 6
+            rewardMin: 1
+            rewardMax: 3
+        }
+        {
+            name: normal
+            chance: .7
+            speed: 1
+            size: .4
+            healthMin: 2
+            healthMax: 4
+            rewardMin: 1
+            rewardMax: 3
+        }
+    ]
+}
+

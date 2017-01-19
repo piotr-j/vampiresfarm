@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "version": 1
+  },
+  "componentIdentifiers": {
+    "io.piotrjastrzebski.vampirefarm.game.components.human.Settlement": "Settlement",
+    "io.piotrjastrzebski.vampirefarm.game.components.Tapable": "Tapable",
+    "io.piotrjastrzebski.vampirefarm.game.components.RegionLockable": "RegionLockable",
+    "io.piotrjastrzebski.vampirefarm.game.components.Building": "Building",
+    "io.piotrjastrzebski.vampirefarm.game.components.Transform": "Transform"
+  },
+  "entities": {
+    "0": {
+      "archetype": 3,
+      "components": {
+        "Tapable": {
+          "event": "TAPPED_HUMAN_VILLAGE"
+        },
+        "Building": {
+          "owner": 1,
+          "demolishable": true
+        }
+      }
+    }
+  },
+  "archetypes": {
+    "3": [
+      "Transform",
+      "Settlement",
+      "Tapable",
+      "RegionLockable",
+      "Building"
+    ]
+  }
+}

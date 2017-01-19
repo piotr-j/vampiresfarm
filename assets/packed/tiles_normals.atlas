@@ -1,0 +1,132 @@
+
+tiles_normals.png
+size: 2048,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+prop_bridge_ns
+  rotate: false
+  xy: 518, 333
+  size: 256, 155
+  orig: 256, 384
+  offset: 0, 44
+  index: -1
+prop_bridge_sn
+  rotate: false
+  xy: 518, 176
+  size: 256, 155
+  orig: 256, 384
+  offset: 0, 44
+  index: -1
+prop_cage
+  rotate: false
+  xy: 518, 17
+  size: 177, 157
+  orig: 256, 384
+  offset: 39, 99
+  index: -1
+prop_cloud
+  rotate: false
+  xy: 1034, 342
+  size: 231, 146
+  orig: 256, 384
+  offset: 13, 98
+  index: -1
+prop_field
+  rotate: false
+  xy: 1267, 373
+  size: 226, 115
+  orig: 256, 384
+  offset: 15, 88
+  index: -1
+prop_forest
+  rotate: false
+  xy: 1495, 354
+  size: 196, 134
+  orig: 256, 384
+  offset: 39, 102
+  index: -1
+prop_hut
+  rotate: false
+  xy: 905, 101
+  size: 130, 98
+  orig: 256, 384
+  offset: 63, 114
+  index: -1
+prop_lair
+  rotate: false
+  xy: 697, 2
+  size: 102, 172
+  orig: 256, 384
+  offset: 77, 100
+  index: -1
+prop_mountain
+  rotate: false
+  xy: 1034, 205
+  size: 230, 135
+  orig: 256, 384
+  offset: 12, 90
+  index: -1
+prop_portal
+  rotate: false
+  xy: 1881, 327
+  size: 114, 161
+  orig: 256, 384
+  offset: 71, 111
+  index: -1
+prop_station
+  rotate: false
+  xy: 1693, 354
+  size: 186, 134
+  orig: 256, 384
+  offset: 35, 94
+  index: -1
+prop_tower
+  rotate: false
+  xy: 801, 29
+  size: 102, 170
+  orig: 256, 384
+  offset: 77, 100
+  index: -1
+tile_ground
+  rotate: false
+  xy: 776, 201
+  size: 256, 130
+  orig: 256, 384
+  offset: 0, 81
+  index: -1
+tile_ground_corner
+  rotate: false
+  xy: 2, 277
+  size: 256, 211
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+tile_water
+  rotate: false
+  xy: 776, 333
+  size: 256, 155
+  orig: 256, 384
+  offset: 0, 44
+  index: -1
+tile_water_corner
+  rotate: false
+  xy: 2, 76
+  size: 256, 199
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+tile_water_east
+  rotate: false
+  xy: 260, 289
+  size: 256, 199
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+tile_water_west
+  rotate: false
+  xy: 260, 88
+  size: 256, 199
+  orig: 256, 384
+  offset: 0, 0
+  index: -1

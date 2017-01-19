@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "version": 1
+  },
+  "componentIdentifiers": {
+    "io.piotrjastrzebski.jam.ecs.components.rendering.DebugShape": "DebugShape",
+    "io.piotrjastrzebski.vampirefarm.game.components.vampire.Cistern": "Cistern",
+    "io.piotrjastrzebski.vampirefarm.game.components.Tapable": "Tapable",
+    "io.piotrjastrzebski.vampirefarm.game.components.Building": "Building",
+    "io.piotrjastrzebski.vampirefarm.game.components.Transform": "Transform"
+  },
+  "entities": {
+    "2": {
+      "archetype": 4,
+      "components": {
+        "DebugShape": {
+          "shapes": [
+            {
+              "class": "io.piotrjastrzebski.jam.ecs.components.rendering.DebugShape$RectShape",
+              "type": "Filled",
+              "color": {
+                "r": 0.7,
+                "g": 0.3,
+                "b": 0.35,
+                "a": 1
+              },
+              "affine2": {},
+              "width": 1,
+              "height": 1
+            }
+          ]
+        },
+        "Cistern": {
+            "buildTime": 15,
+            "bloodCap": 15
+        },
+        "Tapable": {
+          "event": "TAPPED_VAMPIRE_CISTERN"
+        },
+        "Building": {
+          "owner": 0,
+          "demolishable": true
+        }
+      }
+    }
+  },
+  "archetypes": {
+    "4": [
+      "Transform",
+      "DebugShape",
+      "Tapable",
+      "Building",
+      "Cistern"
+    ]
+  }
+}

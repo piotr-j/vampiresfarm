@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "version": 1
+  },
+  "componentIdentifiers": {
+    "io.piotrjastrzebski.vampirefarm.game.components.vampire.Portal": "Portal",
+    "io.piotrjastrzebski.vampirefarm.game.components.Tapable": "Tapable",
+    "io.piotrjastrzebski.vampirefarm.game.components.Building": "Building",
+    "io.piotrjastrzebski.vampirefarm.game.components.Transform": "Transform"
+  },
+  "entities": {
+    "2": {
+      "archetype": 4,
+      "components": {
+        "Tapable": {
+          "event": "TAPPED_VAMPIRE_PORTAL"
+        }
+      },
+      "Building": {
+        "owner": 0,
+        "demolishable": false
+      }
+    }
+  },
+  "archetypes": {
+    "4": [
+      "Transform",
+      "Tapable",
+      "Building",
+      "Portal"
+    ]
+  }
+}
